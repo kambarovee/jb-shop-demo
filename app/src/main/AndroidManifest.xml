@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jbshop">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".NurSultanCity"></activity>
+        <activity android:name=".Kaskelen" />
+        <activity android:name=".MemeSticker" />
+        <activity android:name=".csgoStickers" />
+        <activity android:name=".JbSticker" />
+        <activity android:name=".ProgrammersLifeSticker" />
+        <activity android:name=".PrivedenceStickers" />
+        <activity android:name=".FourthTshirt" />
+        <activity android:name=".thirdTshirt" />
+        <activity android:name=".secondTshirt" />
+        <activity android:name=".EtoNeBaga" />
+        <activity android:name=".FirstTshirt" />
+        <activity android:name=".AlmatyCity" />
+        <activity android:name=".AboutUsActivity" />
+        <activity android:name=".tshirtCategoryActivity" />
+        <activity android:name=".FirstStickerActivity" />
+        <activity android:name=".ListOfStickers" />
+        <activity android:name=".CategoryStickerActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

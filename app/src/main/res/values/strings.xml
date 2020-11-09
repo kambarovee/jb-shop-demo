@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">JB Shop</string>
+    <string name="stickers">Stickers</string>
+    <string name="t_shirts">T-Shirts</string>
+    <string name="about_us">About Us</string>
+    <string name="ghost">Привиденьице</string>
+    <string name="memes">Memes</string>
+    <string name="cs_go">CS:GO</string>
+    <string name="jb_n_stickers">JB\n Stickers</string>
+    <string name="programmers_nlife">Programmers \nLife</string>
+    <string name="uprog">ТыЖПрограмм</string>
+    <string name="list_of_sticker_pack_n">List of Sticker pack\n\'\'ТыЖПрограммист\'\'</string>
+    <string name="_10">$10</string>
+    <string name="price">Price</string>
+    <string name="sticker">Sticker</string>
+    <string name="tizhprogrammist">\'\'ТыЖПрограммист\'\'</string>
+    <string name="lorem_ipsum_dolor_sit_amet_id_qui_invidunt_insolens_disputando_te_modus_discere_democritum_quo_ut_pro_prima_lorem">Lorem ipsum dolor sit amet, id qui invidunt insolens disputando, te modus discere democritum quo. Ut pro prima lorem.</string>
+    <string name="_15x15">15x15</string>
+    <string name="_10x10">10x10</string>
+    <string name="_5x5">5x5</string>
+    <string name="choose_size">Choose size:</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="chalik_ngray">Chalik\nGray</string>
+    <string name="white">White</string>
+    <string name="black">Black</string>
+    <string name="chalik_nblack">Chalik\nBlack</string>
+    <string name="passion_nred">Passion\nRed</string>
+    <string name="mindless">Mindless</string>
+    <string name="wisdom_nwords">Wisdom\nWords</string>
+    <string name="ities_where_you_can_buy_our_products">сities where you can buy our products:</string>
+    <string name="phone_number_n_7_777_787_78_78">Phone Number:\n+7 (777) 787 78 78</string>
+    <string name="city_nalmaty">City: \nAlmaty</string>
+    <string name="_100">$100</string>
+    <string name="l">L</string>
+    <string name="m">M</string>
+    <string name="s">S</string>
+    <string-array name="optionsForStickers">
+        <item>ТыЖПрограммист</item>
+        <item>Это не бага, это фича!</item>
+    </string-array>
+
+    <string-array name="optionsForAboutUs">
+        <item>Almaty</item>
+        <item>Kaskelen</item>
+        <item>Nur-Sultan</item>
+    </string-array>
+</resources>

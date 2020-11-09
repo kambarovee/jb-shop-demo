@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2222"
+    android:padding="20dp"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="130dp"
+        android:layout_height="90dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        app:srcCompat="@drawable/jbshoppurple"
+        android:contentDescription="TODO" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="170dp"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/stickerbtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/forbtn"
+            android:drawableEnd="@drawable/ic_sticker2"
+            android:text="@string/stickers"
+            android:textColor="#6049D0"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/tshirtbtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/forbtn"
+            android:drawableEnd="@drawable/ic_tshirt2"
+            android:text="@string/t_shirts"
+            android:textColor="#6049D0"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/aboutusbtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/forbtn"
+            android:drawableEnd="@drawable/ic_business_card"
+            android:text="@string/about_us"
+            android:textColor="#6049D0"
+            android:textSize="24sp" />
+    </LinearLayout>
+
+</RelativeLayout>
